@@ -1,0 +1,190 @@
+SENTENCE	LABEL
+You children will be the future of this country.	simple_future
+We will paint our house next week.	simple_future
+You will cry.	simple_future
+They will write the letter to their best friend.	simple_future
+He will close the shop.	simple_future
+She will see her friend at the weekend.	simple_future
+I will read the newspaper when I go to bus station.	simple_future
+Tomorrow, the sun will rise at : am.	simple_future
+They will be here in two hours.	simple_future
+He will help you tomorrow.	simple_future
+I will see you tomorrow, please wait me.	simple_future
+They will dance.	simple_future
+I will go to London next week.	simple_future
+I will be twenty seven in April.	simple_future
+She won’t do the ironing.	simple_future
+Will it be windy tomorrow morning?	simple_future
+He will love her forever.	simple_future
+She will cry.	simple_future
+You will miss me in future.	simple_future
+They will come here tomorrow.	simple_future
+I will miss you when you move to another country.	simple_future
+Mark will fix my car.	simple_future
+I won’t go to the theater.	simple_future
+Tomorrow, My father will apply for a new job.	simple_future
+We won’t go to the theater.	simple_future
+I won’t go to the cemetery.	simple_future
+We are going to eat.	simple_future
+We think, We will be back on Sunday from holiday.	simple_future
+I will stay at home at the weekend.	simple_future
+He will call me tomorrow.	simple_future
+We will play basketball.	simple_future
+You’ll feel better with this orange juice.	simple_future
+I am afraid you won’t remember me.	simple_future
+He is going to jump.	simple_future
+You will go to France tomorrow.	simple_future
+He is going to sleep.	simple_future
+She will be a successful engineer in  years.	simple_future
+Will you come to the party?	simple_future
+When will you travel?	simple_future
+You can’t carry this luggage yourself. I will help you.	simple_future
+I am going to cook tonight.	simple_future
+It won’t be very cold next week.	simple_future
+Will it hurt?	simple_future
+I will make a tea.	simple_future
+She will meet with her best friends.	simple_future
+They will win the game.	simple_future
+She won’t watch the football match.	simple_future
+They will go to the school.	simple_future
+It will stay in the outside.	simple_future
+We will probably win.	simple_future
+The baby will be sleeping in the afternoon.	future_continous
+I’ll be seeing you this time next month.	future_continous
+She won’t be watching the news at eigth.	future_continous
+She will be travelling around the world this time next week.	future_continous
+She will be studying at the library tonight.	future_continous
+It will be drinking milk tomorrow.	future_continous
+Who will be waiting for me when I arrive in the Paris?	future_continous
+In an hour I’ll still be ironing my clothes.	future_continous
+I will be helping Alex tomorrow.	future_continous
+Won’t we cleaning the kitchen tomorrow in the afternoon?	future_continous
+We will not be going back there again.	future_continous
+We won’t be going back there again.	future_continous
+I will not be using the computer for the next few hours.	future_continous
+I won’t be using the computer for the next few hours.	future_continous
+I will be having a party for my birthday.	future_continous
+We will be leaving in ten minutes.	future_continous
+She will be waiting at the gate.	future_continous
+I shall be studying hard for my exam.	future_continous
+He will be going to work next week.	future_continous
+They will be sleeping till late on Saturday.	future_continous
+We will be watching a movie next monday.	future_continous
+Girls will be swimming on Sunday after lunch.	future_continous
+I shall not be studying hard for my exam on Sunday.	future_continous
+He will not be going to work next week.	future_continous
+They will not be sleeping till late on Saturday.	future_continous
+We will not be watching a movie next monday.	future_continous
+Girls will not be swimming on Sunday after lunch.	future_continous
+Shall I be studying hard for my exam on Sunday?	future_continous
+Will he be going to work next week?	future_continous
+Will they be sleeping till late on Saturday?	future_continous
+Will we be watching a movie next monday?	future_continous
+Will girls be swimming on Sunday after lunch?	future_continous
+Shall I not be studying hard for my exam on Sunday?	future_continous
+Will he not be going to work next week?	future_continous
+Will they not be sleeping till late on Saturday?	future_continous
+Will we not be watching a movie next monday?	future_continous
+Will girls not be swimming on Sunday after lunch?	future_continous
+We will have been working together for  years next year.	future_perfect_continous
+She will have been running for  hours by the time she finishes the marathon.	future_perfect_continous
+They will have been studying for  hours by the time the library closes.	future_perfect_continous
+I will be tired next week because I will have been working the entire weekend.	future_perfect_continous
+She will be excited because she will have been thinking about this day for a long time.	future_perfect_continous
+I am going to have been driving for  hours by the time we get there.	future_perfect_continous
+She's going to have been watching TV for  straight hours by the time her mother gets home.	future_perfect_continous
+They're going to have been fighting for hours by the time they finally stop.	future_perfect_continous
+By the time we leave, we are going to have been playing video games for  hours.	future_perfect_continous
+He will be great at English in a few years because he will have been studying for over  years.	future_perfect_continous
+I will have been living in Korea for  years by the time I move back to America next year.	future_perfect_continous
+She is going to have been working for that company for  years when it finally closes next month.	future_perfect_continous
+When I move back to America, I will have been living in Korea for over  years.	future_perfect_continous
+By next year, she is going to have been working as a doctor for  years.	future_perfect_continous
+He will be excited if he wins because he will have been preparing for the competition for over  year. 	future_perfect_continous
+By this time tomorrow, I'll have been working for  hours straight.	future_perfect_continous
+She's going to have been married for  years next year.	future_perfect_continous
+He will be tired because he will have been training all day.	future_perfect_continous
+They are going to be experts by next year because they will have been studying every day for  years.	future_perfect_continous
+They will have been working for  hours in a row by the time they finish.	future_perfect_continous
+He is going to have forgotten everything by the time he actually gives his speech.	future_perfect_continous
+I will have been living	future_perfect_continous
+I won't have been living	future_perfect_continous
+Will I have been living?	future_perfect_continous
+Won't I have been living?	future_perfect_continous
+You will have been living	future_perfect_continous
+You won't have been living	future_perfect_continous
+Will you have been living?	future_perfect_continous
+Won't you have been living?	future_perfect_continous
+He will have been living	future_perfect_continous
+He won't have been living	future_perfect_continous
+Will he have been living?	future_perfect_continous
+Won't he have been living?	future_perfect_continous
+We will have been living	future_perfect_continous
+We won't have been living	future_perfect_continous
+Will we have been living?	future_perfect_continous
+Won't we have been living?	future_perfect_continous
+They will have been living	future_perfect_continous
+They won't have been living	future_perfect_continous
+Will they have been living?	future_perfect_continous
+Won't they have been living?	future_perfect_continous
+In November, I will have been working at my company for three years.	future_perfect_continous
+At five o’clock, I will have been waiting for thirty minutes.	future_perfect_continous
+When I turn thirty, I will have been playing piano for twenty-one years.	future_perfect_continous
+On Thursday, I will have been knowing you for a week.	future_perfect_continous
+On Thursday, I will have known you for a week.	future_perfect_continous
+I will have been reading forty-five books by Christmas.	future_perfect_continous
+I will have read forty-five books by Christmas.	future_perfect_continous
+I will have been waiting here for three hours by six o'clock.	future_perfect_continous
+By  I will have been living in London for sixteen years.	future_perfect_continous
+When I finish this course, I will have been learning English for twenty years.	future_perfect_continous
+Next year I will have been working here for four years.	future_perfect_continous
+When I come at :, will you have been practicing long?	future_perfect_continous
+I will have finished this book	future_perfect
+You will have studied the English tenses	future_perfect
+It won't have stopped raining	future_perfect
+will we have met your boyfriend?	future_perfect
+will they have left their jobs?	future_perfect
+When will I have finished writing this book?	future_perfect
+Why will you have studied all the English verb tenses by tomorrow?	future_perfect
+When will she have been here three weeks?	future_perfect
+Why will he have got married before June?	future_perfect
+Why will it have got colder by May?	future_perfect
+How will we have met your boyfriend by tonight?	future_perfect
+When will they have left their jobs?	future_perfect
+Jack will have finished his homework by the time his mother gets home.	future_perfect
+She will have gotten ready by the time they leave the house.	future_perfect
+Laura will have cleaned out the apartment before she gives back the key.	future_perfect
+By the time I get home, Zoe will have cooked dinner for both of us.	future_perfect
+The robbers will have taken all the money by the time anyone arrives	future_perfect
+By the time he graduates, he will have completed five years of study.	future_perfect
+The snow will have stopped by April.	future_perfect
+We will have returned home by five o'clock.	future_perfect
+By tomorrow, their life will have changed completely.	future_perfect
+We are on vacation. So by the time we get back, we will have rested and relaxed.	future_perfect
+Her heel will have fully healed by the summer.	future_perfect
+By next month, you will have received your promotion.	future_perfect
+By the time he wakes up, we will have prepared lunch for everyone.	future_perfect
+Next Monday we will have been married for ten years.	future_perfect
+Tomorrow Justin will have been single for a whole week.	future_perfect
+In September I will have lived here for eight years.	future_perfect
+Luke will have been sick for two weeks tomorrow.	future_perfect
+Next week you will have had this car for twenty five years!	future_perfect
+I shall have studied hard for my exam.	future_perfect
+You will have gone to work.	future_perfect
+They will have slept at  p.m.	future_perfect
+Ram will have watched a movie.	future_perfect
+Boys will have swum.        	future_perfect
+I shall have not studied hard for my exam.	future_perfect
+You will have not gone to work.	future_perfect
+They will have not slept at  p.m.	future_perfect
+Ram will have not watched a movie.	future_perfect
+Boys will have not swum.  	future_perfect
+Will you not have gone to work?	future_perfect
+Will they not have slept at  p.m.?	future_perfect
+Will Ram not have watched a movie?	future_perfect
+Will boys not have swum?	future_perfect
+He will have cooked food.	future_perfect
+Shall we have shifted into the new house by Monday?	future_perfect
+Sham will have returned from America.	future_perfect
+He will have given the gift to Ram tomorrow.	future_perfect
+You will have become a scientist after four years.	future_perfect
